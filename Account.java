@@ -1,3 +1,9 @@
+/**
+* @author Liz Dao
+* @date 10/20/2016
+* CSC200 Chapter 3.4
+*/
+
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
